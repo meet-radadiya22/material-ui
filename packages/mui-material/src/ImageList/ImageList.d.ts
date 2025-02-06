@@ -3,7 +3,7 @@ import { SxProps } from '@mui/system';
 import { OverridableStringUnion } from '@mui/types';
 import { Theme } from '..';
 import { OverridableComponent, OverrideProps } from '../OverridableComponent';
-import { ImageListClasses } from './imageListClasses';
+
 
 export interface ImageListPropsVariantOverrides {}
 
